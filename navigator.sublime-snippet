@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[navigator]]></content>
+    <tabTrigger>n</tabTrigger>
+    <scope>source.js</scope>
+    <description>navigator</description>
+</snippet>

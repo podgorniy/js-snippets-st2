@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[location]]></content>
+    <tabTrigger>l</tabTrigger>
+    <scope>source.js</scope>
+    <description>location</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[window]]></content>
+    <tabTrigger>w</tabTrigger>
+    <scope>source.js</scope>
+    <description>window</description>
+</snippet>

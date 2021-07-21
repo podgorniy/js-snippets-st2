@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[console.warn(${0:$TM_SELECTED_TEXT});]]></content>
+    <tabTrigger>cw</tabTrigger>
+    <scope>source.js</scope>
+    <description>console.warn</description>
+</snippet>

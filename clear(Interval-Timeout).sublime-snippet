@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clear${1:T}${1/(T)|(I).*/(?1:imeout)(?2:nterval)/}(${0:$TM_SELECTED_TEXT});]]></content>
+    <tabTrigger>clr</tabTrigger>
+    <scope>source.js</scope>
+    <description>clearInterval, clearTimeout</description>
+</snippet>

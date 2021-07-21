@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+		<![CDATA[for (${20:key} in ${30:object}) {
+	if (${30:object}.hasOwnProperty(${20:key})) {
+		${40:${30:object}[${20:key}]}
+	}
+}]]>
+	</content>
+    <tabTrigger>for</tabTrigger>
+    <scope>source.js</scope>
+    <description>"for" object loop</description>
+</snippet>

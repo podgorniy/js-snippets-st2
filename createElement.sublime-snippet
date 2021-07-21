@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createElement('${1:div}')$0]]></content>
+    <tabTrigger>ce</tabTrigger>
+    <scope>source.js</scope>
+    <description>createElement</description>
+</snippet>

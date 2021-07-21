@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[indexOf(${1:$TM_SELECTED_TEXT})]]></content>
+    <tabTrigger>io</tabTrigger>
+    <scope>source.js</scope>
+    <description>indexOf</description>
+</snippet>

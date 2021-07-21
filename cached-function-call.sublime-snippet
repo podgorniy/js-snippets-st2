@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[${100:function_name} = function () {
+	$0
+};
+return ${100:function_name}.apply(this, arguments);]]></content>
+    <tabTrigger>srv</tabTrigger>
+    <scope>source.js</scope>
+    <description>Self rewriting function</description>
+</snippet>
+
+
+
+
+
+
+

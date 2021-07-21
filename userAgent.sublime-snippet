@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[userAgent]]></content>
+    <tabTrigger>ua</tabTrigger>
+    <scope>source.js</scope>
+    <description>userAgent</description>
+</snippet>

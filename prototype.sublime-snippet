@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[prototype]]></content>
+    <tabTrigger>pr</tabTrigger>
+    <scope>source.js</scope>
+    <description>prototype</description>
+</snippet>
